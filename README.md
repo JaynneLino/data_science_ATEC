@@ -5,18 +5,18 @@ Desenvolver uma aplicação de consola em Python, utilizando os princípios da P
 
 ## Funcionalidades obrigatórias:
 
-Registar Médicos
-Nome, especialidade, número da cédula profissional.
-Registar Pacientes
-Nome, data de nascimento, número do cartão de cidadão.
-Marcar Consultas
-Associar um médico e um paciente a uma data e hora específica.
-Garantir que o médico não tem duas consultas marcadas ao mesmo tempo.
-Listagens
-Listar Consultas do Dia
+**Registar Médicos**
+_Nome, especialidade, número da cédula profissional._
+**Registar Pacientes**
+_Nome, data de nascimento, número do cartão de cidadão._
+**Marcar Consultas**
+_Associar um médico e um paciente a uma data e hora específica._
+_Garantir que o médico não tem duas consultas marcadas ao mesmo tempo._
+**Listagens**
+_Listar Consultas do Dia_
 Mostrar todas as consultas agendadas para uma data específica, ordenadas por hora.
-Listar Médicos e Pacientes
-Listagens completas com todos os dados.
-Exportar para ficheiro as consultas para text
+_Listar Médicos e Pacientes_
+_Listagens completas com todos os dados._
+**Exportar para ficheiro as consultas para text**
 
 #Trabalho final - Jaynne Lino
