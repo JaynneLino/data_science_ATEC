@@ -27,6 +27,10 @@ Desenvolver uma aplicação de consola em Python, utilizando os princípios da P
 * _Listar Médicos e Pacientes_
 * _Listagens completas com todos os dados._
 
-**Exportar para ficheiro as consultas para text**
+### Exportar para ficheiro as consultas para text
 
 ### Trabalho final - Jaynne Lino
+
+### Link ATEC
+
+[ATEC](https://www.atec.pt/)
